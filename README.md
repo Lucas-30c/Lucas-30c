@@ -2,6 +2,8 @@
 <h1 align="center">Hi , I'm Lucas<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 
+# SOFTWARE DEVELOPER - FULL STACK
+<h1 align="center">SOFTWARE DEVELOPER - FULL STACK</h1>
 <p style="font-size: 28px; text-align: center;"><strong>SOFTWARE DEVELOPER - FULL STACK</strong></p>
 
 
@@ -175,14 +177,4 @@
 
 <h2 align='center'>Thank You!!!!!</h2>
 <br>
-
-<hr>
-<hr>
-<hr>
-
-
-
-
-
-
 
