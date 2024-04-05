@@ -1,21 +1,15 @@
 <br>
 <h1 align="center">Hi , I'm Lucas<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
-
-# SOFTWARE DEVELOPER - FULL STACK
+<br>
 <h1 align="center">SOFTWARE DEVELOPER - FULL STACK</h1>
-<p style="font-size: 28px; text-align: center;"><strong>SOFTWARE DEVELOPER - FULL STACK</strong></p>
-
-
-
-
 <br>
-<br>
+
 
 👋 Hey there! I'm a highly motivated junior developer passionate about crafting innovative solutions! 🚀 With a knack for Python, HTML5, CSS3, and SQL, I've led projects like digitized libraries and agile vote counting systems. 💻 
 
 🌟 ¡Ready for new projects and make a difference! 🌟
-
+<br>
 <hr>
 
 
