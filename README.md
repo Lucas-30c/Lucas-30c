@@ -2,7 +2,7 @@
 <h1 align="center">Hi , I'm Lucas<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 
 <br>
-<h1 align="center">SOFTWARE DEVELOPER - FULL STACK</h1>
+<h1 align="center">FULL STACK SOFTWARE DEVELOPER</h1>
 <br>
 
 
